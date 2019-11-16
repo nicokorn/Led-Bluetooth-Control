@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ \ main-Methode\ zum\ Starten\ des\ Programms\n
+comment1.params=
+comment1.target=FileSearch()
+comment1.text=\n\ \ Konstruktor\:\ GUI\ initialisieren\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ \ Button-Ereignis\ behandeln\:\ Text\ in\ Datei\ suchen\n
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.text=\n\ \ WindowListener-Methoden\n
+comment4.params=e
+comment4.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment5.params=e
+comment5.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment6.params=e
+comment6.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment7.params=e
+comment7.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+comment8.params=e
+comment8.target=void\ windowActivated(java.awt.event.WindowEvent)
+comment9.params=e
+comment9.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+numComments=10

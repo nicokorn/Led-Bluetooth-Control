@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\n\ Applet\ initialisieren\n
+comment1.params=
+comment1.target=void\ createGUI()
+comment1.text=\n\ \ GUI\ anlegen\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ \ Event\ Handler\:\ Button\ wurde\ betaetigt\ oder\ Textfeld\ geaendert\n
+comment3.params=e
+comment3.target=void\ adjustmentValueChanged(java.awt.event.AdjustmentEvent)
+comment3.text=\n\ \ Event\ Handler\:\ Scrollbar\ wurde\ geaendert\n
+comment4.params=e
+comment4.target=void\ propertyChange(java.beans.PropertyChangeEvent)
+comment4.text=\n\ Event\ Handler\:\ \n\ Die\ TankView\ ist\ Listener\ des\ Models\ und\ wird\ ueber\ diese\ Methode\ \n\ ueber\ Aenderungen\ am\ Model\ informiert;\ wenn\ dies\ geschieht,\ muessen\ \n\ das\ Textfeld\ und\ die\ Scrollbar\ aktualisiert\ werden\n
+numComments=5

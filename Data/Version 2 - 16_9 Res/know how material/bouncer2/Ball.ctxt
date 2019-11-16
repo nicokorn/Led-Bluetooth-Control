@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=graphics\ bg
+comment0.target=Ball(java.awt.Graphics,\ java.awt.Color)
+comment0.text=\n\ \ Konstruktor\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\n\ \ run-Methode\ fuer\ den\ Thread\n
+comment2.params=
+comment2.target=void\ anhalten()
+comment2.text=\n\ \ Animation\ anhalten\n
+numComments=3

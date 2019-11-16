@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=gui
+comment0.target=Picture(javax.swing.JFrame)
+comment0.text=\r\n\ Konstruktor\r\n
+comment1.params=
+comment1.target=void\ open_picture()
+comment1.text=\r\n\ open\ picture\r\n
+comment2.params=
+comment2.target=int\ get_picture_height()
+comment2.text=\r\n\ gibt\ H\u00F6he/Zeilenzahl\ des\ Bildes\ zur\u00FCck\r\n
+comment3.params=
+comment3.target=int\ get_picture_width()
+comment3.text=\r\n\ gibt\ Spaltenzahl/Breite\ des\ Bildes\ zur\u00FCck\r\n
+comment4.params=
+comment4.target=boolean\ get_picture_status()
+comment4.text=\r\n\ gibt\ zur\u00FCck\ ob\ das\ Bild\ geladen\ wurde\ oder\ nicht\r\n
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ get_picture()
+comment5.text=\r\n\ gibt\ H\u00F6he/Zeilenzahl\ des\ Bildes\ zur\u00FCck\r\n
+comment6.params=i_col_count_led\ i_row_count_led\ segment_size
+comment6.target=int[][]\ get_picture_color(int,\ int,\ int)
+comment6.text=\r\n\ Diese\ Methode\ teilt\ das\ geladene\ Bild\ in\ Segmente,\ aus\ welchen\ der\ durchschnittliche\ Farbwert\ bestimmt\ wird.\ Die\ Farbwerte\ werden\ in\ einem\ Array\ abgelegt\ und\ in\ der\ LED\ Wandvorschau\ wiedergegeben\r\n
+comment7.params=i_segment_x0\ i_segment_y0\ i_segment_width\ i_segment_height
+comment7.target=int\ get_picture_color_of_segment(int,\ int,\ int,\ int)
+comment7.text=\r\n\ Diese\ Methode\ liest\ aus\ einem\ Bildegment\ die\ durchschnittliche\ Farbe\r\n
+numComments=8

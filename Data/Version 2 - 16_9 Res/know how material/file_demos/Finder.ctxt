@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ \ main-Methode\ zum\ Starten\ des\ Programms\n
+comment1.params=fileName
+comment1.target=void\ doSearch(java.lang.String)
+comment1.text=\n\ \ Nach\ einem\ bestimmten\ String\ in\ der\ Datei\ suchen\ und\ wenn\ erfolgreich\n\ \ Zeile\ mit\ Zeile\ davor\ und\ danach\ anzeigen\n\ \ \n\ \ @param\ \ fileName\ \ \ \ Datei\ in\ der\ gesucht\ werden\ soll\n
+comment2.params=
+comment2.target=void\ displayLine()
+comment2.text=\n\ \ Die\ drei\ Zeilen\ mit\ Suchergebnis\ in\ der\ mittleren\ Zeile\ ausgeben\n
+comment3.params=message
+comment3.target=java.lang.String\ prompt(java.lang.String)
+comment3.text=\n\ \ Eingabeaufforderung\ ausgeben\ und\ Zeile\ einlesen\n\ \ \n\ \ @param\ \ message\ \ \ \ \ Eingabeaufforderung\n\ \ @return\ \ \ \ \ \ \ \ \ \ \ \ \ eingelesener\ Text\n
+numComments=4

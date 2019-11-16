@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\n\ \ Initialisierung\ des\ Applet\n
+comment1.params=
+comment1.target=void\ createGUI()
+comment1.text=\n\ \ Grafische\ Oberflaeche\ erzeugen\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\n\ \ Info\ ausgeben\ und\ Tank\ zeichnen\n
+comment3.params=g\ xPos\ yPos\ breite\ hoehe
+comment3.target=void\ zeichneTank(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment3.text=\n\ \ Zeichnet\ einen\ Tank\ mit\ breite\ 50\ und\ hoehe\ 150\ an\ der\n\ \ Position\ xPos,\ yPos\n\ \ Der\ max.\ Fuellstand\ ist\ 'maxStand',\n\ \ Der\ aktuelle\ Fuellstand\ 'fuellStand'\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ \ Ereignisbehandlung\:\ Buttons\n
+comment5.params=e
+comment5.target=void\ adjustmentValueChanged(java.awt.event.AdjustmentEvent)
+comment5.text=\n\ \ Ereignisbehandlung\:\ Scrollbar\n
+comment6.params=erhoehung
+comment6.target=void\ erhoeheFuellstand(int)
+comment6.text=\n\ \ Hilfsmethode\ zum\ Erhoehen\ des\ Fuellstands\n
+comment7.params=fuellStand
+comment7.target=void\ setzeFuellstand(int)
+comment7.text=\n\ \ Hilfsmethode\ zum\ Setzen\ des\ Fuellstands\n
+numComments=8

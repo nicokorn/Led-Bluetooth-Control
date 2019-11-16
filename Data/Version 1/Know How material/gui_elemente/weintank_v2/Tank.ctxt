@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=fuellstand\ maxFuellstand
+comment0.target=Tank(int,\ int)
+comment0.text=\n\ Konstruktor\n
+comment1.params=listener
+comment1.target=void\ addPropertyChangeListener(java.beans.PropertyChangeListener)
+comment1.text=\n\ Moeglichkeit,\ Listener\ hinzuzufuegen\n
+comment2.params=
+comment2.target=int\ getFuellstand()
+comment2.text=\n\ Werte\ auslesen\n
+comment3.params=
+comment3.target=int\ getMaxFuellstand()
+comment4.params=
+comment4.target=void\ fuellen()
+comment4.text=\n\ Fuellt\ den\ Tank\ und\ gibt\ den\ Fuellstand\ zurueck\n\ \n\ Diese\ und\ die\ folgenden\ Methoden\ melden\ die\ Aenderung\ des\ Fuellstands\ durch\n\ den\ Aufruf\ der\ Methode\ firePropertyChange\ an\ die\ Listener\n
+comment5.params=liter
+comment5.target=void\ fuellstandAendernUm(int)
+comment5.text=\n\ Fuellt\ den\ Tank\ mit\ liter\ Litern\ oder\ bis\ zum\ maximalen\ Fuellstand\n
+comment6.params=aufLiter
+comment6.target=void\ setFuellstand(int)
+comment6.text=\n\ Setzt\ den\ Tank\ auf\ aufLiter\ Liter,\ falls\ im\ erlaubten\ Bereich\n
+comment7.params=
+comment7.target=int\ leeren()
+comment7.text=\n\ Leert\ den\ Tank,\ gibt\ den\ letzten\ F\u00FCllstand\ zur\u00FCck\n
+numComments=8

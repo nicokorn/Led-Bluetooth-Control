@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y\ radius\ color\ g
+comment0.target=LED(int,\ int,\ int,\ int,\ java.awt.Graphics)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LED\r\n
+numComments=1

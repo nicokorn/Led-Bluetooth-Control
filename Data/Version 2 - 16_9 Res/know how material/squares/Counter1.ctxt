@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=count
+comment0.target=Counter1(SharedNumber)
+comment0.text=\n\ \ Konstruktor\:\ Zaehlerobjekt\ uebernehmen\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\n\ \ run-Methode\ fuer\ den\ Thread\:\ In\ einer\ Schleife\ 50\ mal\ nach\ je\ \n\ \ einer\ kurzen\ Verzoegerung\ das\ counter-Objekt\ anweisen,\ den\ \n\ \ Zaehler\ zu\ inkrementieren\ und\ ein\ neues\ Quadrat\ zu\ zeichnen\ \n
+numComments=2

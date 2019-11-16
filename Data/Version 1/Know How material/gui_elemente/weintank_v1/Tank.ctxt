@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=fuellstand\ maxFuellstand
+comment0.target=Tank(int,\ int)
+comment0.text=\n\ \ Konstruktor\:\ Daten\ des\ Tanks\ festlegen\n
+comment1.params=
+comment1.target=int\ getFuellstand()
+comment1.text=\n\ \ Fuellstand\ zurueckgeben\n
+comment2.params=
+comment2.target=int\ getMaxFuellstand()
+comment2.text=\n\ \ Maximalen\ Fuellstand\ zurueckgeben\n
+comment3.params=
+comment3.target=void\ fuellen()
+comment3.text=\n\ Fuellt\ den\ Tank\ \n
+comment4.params=liter
+comment4.target=void\ fuellstandAendernUm(int)
+comment4.text=\n\ Aendert\ den\ Tankinhalt\ um\ einen\ bestimmten\ Betrag,\ dabei\ muss\ der\n\ maximale\ Fuellstand\ beruecksichtigt\ werden\n
+comment5.params=aufLiter
+comment5.target=void\ setFuellstand(int)
+comment5.text=\n\ \ Fuellstand\ auf\ einen\ bestimmten\ Wert\ setzen\n
+comment6.params=
+comment6.target=int\ leeren()
+comment6.text=\n\ leert\ den\ Tank,\ gibt\ den\ letzten\ Fuellstand\ zurueck\n
+numComments=7

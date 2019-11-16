@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\n\ \ Applet\ initialisieren\:\ Zwei\ Buttons\ und\ ihre\ Listener\ anlegen\n
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\n\ \ Button-Ereignisse\ behandeln\n
+numComments=2

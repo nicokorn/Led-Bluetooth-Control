@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=SharedNumber(java.awt.Graphics)
+comment0.text=\n\ \ Konstruktor\:\ Graphics-Objekt\ uebernehmen\n
+comment1.params=col
+comment1.target=void\ increment(java.awt.Color)
+comment1.text=\n\ \ Zaehler\ erhoehen\ und\ Quadrat\ in\ der\ als\ Parameter\ angegebenen\n\ \ Farbe\ zeichnen\n
+numComments=2

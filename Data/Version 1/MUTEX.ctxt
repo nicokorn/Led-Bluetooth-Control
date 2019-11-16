@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MUTEX()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MUTEX\r\n
+comment1.params=
+comment1.target=void\ getToken()
+comment2.params=
+comment2.target=void\ releaseToken()
+comment3.params=
+comment3.target=boolean\ waitForToken()
+numComments=4

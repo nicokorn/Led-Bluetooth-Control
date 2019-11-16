@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=led_wall_preview\ led_gui
+comment0.target=LEDFXDISCO(JPanelLEDPreview,\ LEDWallGUI)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LEDFXDISCO\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ preview\ led\ wall\ state\r\n
+comment2.params=run
+comment2.target=void\ setEnable(boolean)
+comment2.text=\r\n\ stop\ thread\r\n
+comment3.params=i_refreshrate
+comment3.target=void\ setRefreshrate(int)
+comment3.text=\r\n\ set\ refreshrate\r\n
+comment4.params=str_effect
+comment4.target=void\ setEffect(java.lang.String)
+comment4.text=\r\n\ set\ effect\r\n
+comment5.params=i_refreshrate\ str_effect
+comment5.target=void\ setLEDFXDISCO(int,\ java.lang.String)
+comment5.text=\r\n\ set\ effect\r\n
+comment6.params=iWait
+comment6.target=void\ waitProcessing(int)
+numComments=7

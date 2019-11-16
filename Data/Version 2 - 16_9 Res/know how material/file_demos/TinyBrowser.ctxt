@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ \ main-Methode\ zum\ Starten\ des\ Programms\n
+comment1.params=
+comment1.target=void\ fetch()
+comment1.text=\n\ \ Verbindung\ zum\ Server\ herstellen\ und\ Daten\ vom\ Server\ laden\n
+comment2.params=message
+comment2.target=java.lang.String\ prompt(java.lang.String)
+comment2.text=\n\ \ Eingabeaufforderung\ ausgeben\ und\ Zeile\ einlesen\n\ \ \n\ \ @param\ \ message\ \ \ \ \ Eingabeaufforderung\n\ \ @return\ \ \ \ \ \ \ \ \ \ \ \ \ eingelesener\ Text\n
+numComments=3

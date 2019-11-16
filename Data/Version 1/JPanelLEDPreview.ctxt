@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JPanelLEDPreview()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LEDWall\r\n
+comment1.params=i_col\ i_row\ arr_led_colors\ b_keep_ratio\ i_width_ratio\ i_height_ratio
+comment1.target=void\ setLEDRaster(int,\ int,\ int[][],\ boolean,\ int,\ int)
+comment1.text=\r\n\ \r\n
+comment2.params=i_led_radius
+comment2.target=void\ setLEDRadius(int)
+comment2.text=\r\n\ setze\ LED\ radius\r\n
+comment3.params=
+comment3.target=int\ getLEDRadius()
+comment3.text=\r\n\ gebe\ LED\ radius\r\n
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5
